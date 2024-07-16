@@ -1,0 +1,28 @@
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/bin/Debug/net8.0/HomeworkProject 1
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/bin/Debug/net8.0/HomeworkProject 1.deps.json
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/bin/Debug/net8.0/HomeworkProject 1.runtimeconfig.json
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/bin/Debug/net8.0/HomeworkProject 1.dll
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/bin/Debug/net8.0/HomeworkProject 1.pdb
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/HomeworkProject 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/HomeworkProject 1.AssemblyInfoInputs.cache
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/HomeworkProject 1.AssemblyInfo.cs
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/HomeworkProject 1.csproj.CoreCompileInputs.cache
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/HomeworkProject 1.dll
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/refint/HomeworkProject 1.dll
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/HomeworkProject 1.pdb
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/HomeworkProject 1.genruntimeconfig.cache
+/Users/sirawitkc/Desktop/SirawitTop/C# Visual Programming/HomeworkProject 1/obj/Debug/net8.0/ref/HomeworkProject 1.dll
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\bin\Debug\net8.0\HomeworkProject 1.exe
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\bin\Debug\net8.0\HomeworkProject 1.deps.json
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\bin\Debug\net8.0\HomeworkProject 1.runtimeconfig.json
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\bin\Debug\net8.0\HomeworkProject 1.dll
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\bin\Debug\net8.0\HomeworkProject 1.pdb
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\HomeworkProject 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\HomeworkProject 1.AssemblyInfoInputs.cache
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\HomeworkProject 1.AssemblyInfo.cs
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\HomeworkProject 1.csproj.CoreCompileInputs.cache
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\HomeworkProject 1.dll
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\refint\HomeworkProject 1.dll
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\HomeworkProject 1.pdb
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\HomeworkProject 1.genruntimeconfig.cache
+D:\งานติน\Visual-Programming-Homework-main\HomeworkProject 1\obj\Debug\net8.0\ref\HomeworkProject 1.dll
